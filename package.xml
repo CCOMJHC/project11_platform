@@ -3,7 +3,7 @@
   <name>project11_platform</name>
   <version>0.0.0</version>
   <description>
-    Project11 packages related to platform, such as a robot or a support ship
+    Project11 packages related to a platform, such as a robot or a support ship
   </description>
 
   <author email="roland@ccom.unh.edu">Roland Arsenault</author>
