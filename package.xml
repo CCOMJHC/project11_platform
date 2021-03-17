@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>project11_platform</name>
+  <version>0.0.0</version>
+  <description>
+    Project11 packages related to platform, such as a robot or a support ship
+  </description>
+
+  <author email="roland@ccom.unh.edu">Roland Arsenault</author>
+  <maintainer email="roland@ccom.unh.edu">Roland Arsenault</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>project11</exec_depend>
+  <exec_depend>mru_transform</exec_depend>
+  <exec_depend>survey_manager</exec_depend>
+  
+</package>

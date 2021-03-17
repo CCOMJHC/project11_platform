@@ -1,0 +1,9 @@
+repositories:
+  mru_transform:
+    type: git
+    url: git@github.com:rolker/mru_transform.git
+    version: noetic
+  survey_manager:
+    type: git
+    url: git@github.com:rolker/survey_manager.git
+    version: noetic
